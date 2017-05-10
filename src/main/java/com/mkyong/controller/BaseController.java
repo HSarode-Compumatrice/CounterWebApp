@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 //cvlckfvlkf vlkfvk
 @Controller
-public class BaseController{
+public class BaseController11{
 
 	private static int counter = 0;
 	private static final String VIEW_INDEX = "index";
